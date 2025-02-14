@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.icon {
+    height: 30px;
+    width: 30px;
+}
+
+.top-container {
+    background-color: #225db0;
+    height: 100vh;
+    color: #ffffff;
+    padding: 40px;
+    background-size: cover;
+    text-align: center;
+    
+}
+
+.bg-container {
+    background-color: #225db0;
+    height: 100vh;
+    color: #ffffff;
+    padding: 20px;
+    background-size: cover;
+}
+
+.icon-card {
+    background-color: #ffffff;
+    height: 100px;
+    width: 150px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    color: #1f2933;
+
+}
+
+.topic-heading {
+    font-size: 30px;
+}
+
+.button {
+    background-color: #225db0;
+    /* Green */
+    border: 2px solid white;
+    color: white;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.carousel-inner{
+    height: 50vh;
+}
+
+.all-articles{
+    padding-left: 20%;
+
+}
+
+.each-article{
+    padding: 20px;
+    margin:20px
+}
